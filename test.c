@@ -3,7 +3,7 @@
 int main()
 {
 	printf("Hello, World!\n");
-	reutnr 1;
+	return 1;
 
 
 }
